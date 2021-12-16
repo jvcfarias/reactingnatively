@@ -8,5 +8,5 @@ This is my first react application created as part of a bootcamp to develop a ra
 
 Hit me up at: 
 
-<ul>farias.joaovictor@gmail.com).</ul>
+<ul>farias.joaovictor@gmail.com.</ul>
 
